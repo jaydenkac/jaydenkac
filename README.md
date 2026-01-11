@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ - Hi, I'm Jayden
+- I'm currently studying Computer Engineering
+- I chose my major because it feels more low-level and physical than computer science
+- A fun fact about me is:  I've been getting into writing
+- What do I want to learn from EE 205?  Improve my C++ skills
+- A book or movie I'd recommend is:  The Left Hand of Darkness
